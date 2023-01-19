@@ -1,0 +1,7 @@
+item.lifescroll.spawnscroll.name=§a新生卷轴§f
+
+tooltips.lifescroll.spawnscroll.usable=这幅卷轴散发着绿色的生命能量。使用它将您的生成点设置为当前位置！一次性！
+tooltips.lifescroll.spawnscroll.unusable=卷轴看起来像一张普通的纸。它似乎无法检测到您的生命能量。也许你需要回到主世界...
+
+messages.lifescroll.spawnscroll.success=卷轴的绿色能量在消退之前会暂时保护你。你的重生点现在就在%s, %s, %s!
+messages.lifescroll.spawnscroll.fail=卷轴似乎什么也没做。你可能应该返回到主世界。

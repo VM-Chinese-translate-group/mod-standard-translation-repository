@@ -1,0 +1,60 @@
+itemGroup.nyx=Nyx
+
+enchantment.nyx.lunar_edge=月刃
+enchantment.nyx.lunar_edge.desc=锋利的更强版本，强度受当前月相影响
+enchantment.nyx.lunar_shield=月盾
+enchantment.nyx.lunar_shield.desc=保护的更强版本，强度受当前月相影响
+
+info.nyx.day_enchanting=现在太亮了，无法附魔
+info.nyx.harvest_moon=丰收之月正在升起...
+info.nyx.star_shower=星星开始从天空坠落...
+info.nyx.full_moon=满月正在升起...
+info.nyx.blood_moon=血月正在升起...
+info.nyx.blood_moon_sleeping=睡眠使你感到焦躁不安
+info.nyx.meteor=一颗陨石落在附近！
+
+tile.nxy.lunar_water.name=月露
+tile.nyx.lunar_water_cauldron.name=月露坩埚
+tile.nyx.star_block.name=流星块
+tile.nyx.chiseled_star_block.name=凿制流星块
+tile.nyx.cracked_star_block.name=开裂流星块
+tile.nyx.star_stairs.name=流星块楼梯
+tile.nyx.star_slab.name=流星块台阶
+tile.nyx.star_slab_double.name=流星块双层台阶
+tile.nyx.gleaning_meteor_rock.name=陨石集群
+tile.nyx.crystal.name=水晶簇
+tile.nyx.meteor_block.name=陨石块
+tile.nyx.meteor_glass.name=陨石玻璃
+tile.nyx.meteor_rock.name=陨石
+
+fluid.nyx.lunar_water=月球水
+
+item.nyx.lunar_water_bottle.name=月露瓶
+item.nyx.meteor_shard.name=陨石碎片
+item.nyx.fallen_star.name=坠落之星
+item.nyx.meteor_dust.name=陨石尘
+item.nyx.meteor_finder.name=陨石定位设备
+item.nyx.unrefined_crystal.name=粗制水晶
+item.nyx.scythe.name=收集巨镰
+item.nyx.meteor_ingot.name=陨石锭
+item.nyx.meteor_bow.name=加固陨石弓
+item.nyx.meteor_pickaxe.name=陨石镐
+item.nyx.meteor_axe.name=陨石斧
+item.nyx.meteor_shovel.name=陨石锹
+item.nyx.meteor_hoe.name=陨石锄
+item.nyx.meteor_sword.name=陨石剑
+item.nyx.meteor_helm.name=陨石头盔
+item.nyx.meteor_chest.name=陨石胸甲
+item.nyx.meteor_pants.name=陨石护腿
+item.nyx.meteor_boots.name=陨石靴子
+item.nyx.meteor_hammer.name=陨石锤
+
+command.nyx.clearcache.usage=/nyxclearcache to clear the meteor cache
+command.nyx.clearcache.success=Cleared %s positions from the meteor cache!
+command.nyx.clearcache.notfound=Nyx World not found in current world
+command.nyx.force.usage=/nyxforce <event> to cause a lunar event to happen
+command.nyx.force.invalid=不存在名称为%s的月球事件
+command.nyx.force.success=%s将在下一个可能的晚上发生
+command.nyx.force.clear=强制事件已清除
+command.nyx.meteor.usage=/nyxmeteor [x z] [size] [homing] to spawn a meteor
+command.nyx.meteor.success=在%s, %s, %s 上生成一个陨石

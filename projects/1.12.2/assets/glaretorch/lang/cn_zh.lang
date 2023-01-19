@@ -1,0 +1,31 @@
+#en_US
+tile.blockglaretorchsmall.name=强光火把
+tile.blockglaretorch.name=以太强光火把
+tile.blockglaretorchlarge.name=末地强光火把
+tile.blockglaretorchlarge2.name=终极强光火把
+tile.blocklight.name=Light(Block)
+item.del.name=月光强制光源删除仪
+
+#ItemInfo
+glaretorch.ItemDel=how to use: [config configable]
+glaretorch.ItemDel1=It is an item to forcefully delete the light source at nighttime only.
+glaretorch.ItemDel2=Please right click on the ground several times near the light source you want to erase.
+glaretorch.ItemDel3=You can change the deletion range of the light source from Config.
+
+glaretorch.ItemGlareTorch=如何使用: [config configable]
+glaretorch.ItemGlareTorch1=[潜行右键]投掷火把。(命中造成燃烧伤害。)
+glaretorch.ItemGlareTorch2=[潜行跳跃右键]释放火把雨。
+
+#Config
+glaretorch.stack_config=Number of torches created.
+glaretorch.stack_config 1=Restart is necessary for adaptation. The braid rod doubles.
+glaretorch.del_config=Scope of deletion tool.
+glaretorch.del_config 1=This value affects all ranges of X, Y, Z.
+glaretorch.nage_config=Use torch throws.
+glaretorch.nage_config 1=Throw or not to throw
+glaretorch.nageak_config=The power magnification of the torch.
+glaretorch.nageak_config 1=The power changes according to the type of torch.
+glaretorch.hit_config=Hits to monsters.
+glaretorch.hit_config1=Hit or miss
+glaretorch.torchrain_config=Permission to use rain of torches.
+glaretorch.torchrain_config1=release all the torches you have.
