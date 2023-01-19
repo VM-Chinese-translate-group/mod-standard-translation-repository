@@ -1,0 +1,21 @@
+{
+  "item.spiderfarm.bonespider_spawn_egg": "家养骨蜘蛛刷怪蛋",
+  "item.spiderfarm.blaze_spider_spawn_egg": "家养烈焰蜘蛛刷怪蛋",
+  "item.spiderfarm.zombie_spider_spawn_egg": "家养僵尸蜘蛛刷怪蛋",
+  "entity.spiderfarm.domestic_spider": "家养幼蛛",
+  "entity.spiderfarm.zombie_spider": "家养僵尸蜘蛛",
+  "item.spiderfarm.domestic_spider_spawn_egg": "家养幼蛛刷怪蛋",
+  "block.spiderfarm.spider_egg_block_2_stack": "蜘蛛卵块3组",
+  "entity.spiderfarm.bonespider": "家养骨蜘蛛",
+  "block.spiderfarm.spider_egg_block_3_stack": "蜘蛛卵块3组",
+  "item.spiderfarm.spider_egg": "蜘蛛卵",
+  "item.spiderfarm.adultdomesticspider_spawn_egg": "成年家养蜘蛛刷怪蛋",
+  "entity.spiderfarm.blaze_spider": "家养烈焰蜘蛛",
+  "block.spiderfarm.spider_egg_block_1_stack": "蜘蛛卵块3组",
+  "item.spiderfarm.flower_spider_test_spawn_egg": "花蛛测试刷怪蛋",
+  "entity.spiderfarm.adultdomesticspidersaddled": "已驯服的成年家养蜘蛛",
+  "entity.spiderfarm.flower_spider_test": "花蛛测试",
+  "entity.spiderfarm.adultdomesticspider": "成年家养蜘蛛",
+  "item.spiderfarm.adultdomesticspidersaddled_spawn_egg": "已驯服的成年家养蜘蛛刷怪蛋",
+  "item.spiderfarm.flower_spider_seeds": "花镖"
+}
