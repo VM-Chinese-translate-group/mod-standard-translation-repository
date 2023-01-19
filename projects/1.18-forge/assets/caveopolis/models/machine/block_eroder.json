@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+    	"north": "caveopolis:block/block_eroder_side",
+    	"east": "caveopolis:block/block_eroder_side",
+    	"south": "caveopolis:block/block_eroder_side",
+    	"west": "caveopolis:block/block_eroder_side",
+    	"up": "caveopolis:block/block_eroder_top",
+    	"down": "caveopolis:block/block_eroder_top",
+    	"particle": "caveopolis:block/block_eroder_side"
+    }
+}

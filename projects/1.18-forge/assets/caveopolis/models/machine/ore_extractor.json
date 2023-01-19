@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+    	"north": "caveopolis:block/machine_ore_extractor",
+    	"east": "caveopolis:block/machine_side",
+    	"south": "caveopolis:block/machine_side",
+    	"west": "caveopolis:block/machine_side",
+    	"up": "caveopolis:block/machine_top",
+    	"down": "caveopolis:block/machine_top",
+    	"particle": "caveopolis:block/machine_ore_extractor"
+    }
+}
