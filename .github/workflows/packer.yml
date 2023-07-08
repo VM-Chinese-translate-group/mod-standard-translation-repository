@@ -1,0 +1,141 @@
+name: Packer
+
+on:
+
+  push:
+
+    branches:
+
+      - main
+
+jobs:
+
+  release:
+
+    name: Packer
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+
+        uses: actions/checkout@v2
+
+      - name: Create Zipped Projects
+
+        run: |
+
+          mkdir zips
+
+          zip -r zips/1.12.2.zip projects/1.12.2/*
+
+          zip -r zips/1.16.zip projects/1.16/*
+
+          zip -r zips/1.18.zip projects/1.18/*
+
+          zip -r zips/1.19.zip projects/1.19/*
+
+      - name: Create timestamp
+
+        id: create_timestamp
+
+        run: echo "::set-output name=timestamp::$(date '+%Y%m%d%H%M%s')" 
+
+        shell: bash
+
+      - name: Create Release
+
+        id: create_release
+
+        uses: actions/create-release@v1
+
+        env:
+
+          GITHUB_TOKEN: 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
+
+        with:
+
+          tag_name: ${{ steps.create_timestamp.outputs.timestamp }} 
+
+          release_name: VM汉化组模组汉化包
+
+          body: |
+
+            支持1.12.2，1.16.5，1.18.2和1.19版本
+
+          draft: false
+
+          prerelease: false
+
+      - name: Upload Zipped Projects - 1.12.2
+
+        uses: actions/upload-release-asset@v1
+
+        env:
+
+          GITHUB_TOKEN: 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
+
+        with:
+
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+
+          asset_path: zips/1.12.2.zip
+
+          asset_name: VM汉化组模组汉化包1.12.2.zip
+
+          asset_content_type: application/zip
+
+      - name: Upload Zipped Projects - 1.16
+
+        uses: actions/upload-release-asset@v1
+
+        env:
+
+          GITHUB_TOKEN: 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
+
+        with:
+
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+
+          asset_path: zips/1.16.zip
+
+          asset_name: VM汉化组模组汉化包1.16.zip
+
+          asset_content_type: application/zip
+
+      - name: Upload Zipped Projects - 1.18
+
+        uses: actions/upload-release-asset@v1
+
+        env:
+
+          GITHUB_TOKEN: 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
+
+        with:
+
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+
+          asset_path: zips/1.18.zip
+
+          asset_name: VM汉化组模组汉化包1.18.zip
+
+          asset_content_type: application/zip
+
+      - name: Upload Zipped Projects - 1.19
+
+        uses: actions/upload-release-asset@v1
+
+        env:
+
+          GITHUB_TOKEN: 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
+
+        with:
+
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+
+          asset_path: zips/1.19.zip
+
+          asset_name: VM汉化组模组汉化包1.19.zip
+
+          asset_content_type: application/zip
