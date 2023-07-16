@@ -1,0 +1,17 @@
+{
+  "itemGroup.refinedcooking": "精致厨房",
+  "block.refinedcooking.kitchen_station": "厨房控制台",
+  "block.refinedcooking.kitchen_access_point": "厨房接入点",
+  "item.refinedcooking.kitchen_network_card": "厨房网络卡",
+  "gui.refinedcooking.kitchen_access_point": "厨房接入点",
+  "gui.refinedcooking.kitchen_access_point.distance": "%d 方块",
+  "gui.refinedcooking.kitchen_access_point.missing_card": "缺少厨房网络卡",
+  "misc.refinedcooking.kitchen_network_card.tooltip": "连接到%d，%d，%d中的%s。",
+  "tooltip.refinedcooking:kitchen_station.description": "连接到精致存储网络的工作站节点",
+  "config.jade.plugin_refinedcooking.kitchen_station": "厨房控制台",
+  "config.jade.plugin_refinedcooking.kitchen_access_point": "厨房接入点",
+  "jade.refinedcooking:kitchen_station": "已连接到%s的网络",
+  "jade.refinedcooking:online_transmitting": "连接到网络 - 传输",
+  "jade.refinedcooking:online_no_transmission": "连接到网络 - 非传输",
+  "jade.refinedcooking:offline": "未连接到网络"
+}

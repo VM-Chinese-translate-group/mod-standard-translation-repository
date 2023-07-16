@@ -1,0 +1,22 @@
+{
+  "item.angelring.angel_ring": "天使指环",
+  "item.angelring.diamond_ring": "钻石指环",
+  "item.angelring.angel_ring.not_enough_xp": "你需要足够的经验才能飞，获取经验后再尝试！",
+  "item.angelring.angel_ring.tooltip": "按住 §eShift§7 查看更多信息",
+  "item.angelring.angel_ring.desc0": "天使指环通过消耗玩家的经验来给予玩家飞行的能力。",
+  "item.angelring.angel_ring.desc1": "如果玩家的经验低于1级，",
+  "item.angelring.angel_ring.desc2": "天使将会收回给予你的飞行魔法。",
+  "item.angelring.angel_ring.classic.desc0": "天使指环已切换为经典模式。佩戴在饰品栏中以获得飞行能力。",
+  "item.angelring.angel_ring.classic.desc1": "在配置中切换大于点XP消耗为平衡模式.",
+  "item.angelring.energetic_angel_ring": "充能天使指环",
+  "item.angelring.energetic_angel_ring.not_enough_fe": "FE不足，无法飞行！充电后再尝试！",
+  "item.angelring.energetic_angel_ring.tooltip": "按住 §eShift§7 查看更多信息",
+  "item.angelring.energetic_angel_ring.desc0": "在飞行时天使指环将会消耗存储的FE能量。",
+  "item.angelring.energetic_angel_ring.desc1": "天使指环已存储 %s FE / %s FE。",
+  "item.angelring.leadstone_angel_ring": "铅石天使指环",
+  "item.angelring.hardened_angel_ring": "硬化天使指环",
+  "item.angelring.reinforced_angel_ring": "强化天使指环",
+  "item.angelring.resonant_angel_ring": "谐振天使指环",
+  "curios.identifier.angelring": "天使指环",
+  "itemGroup.angelring2": "天使指环2"
+}
