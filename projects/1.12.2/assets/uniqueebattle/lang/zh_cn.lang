@@ -1,0 +1,33 @@
+enchantment.uniqueebattle.ares_grace=战神的恩惠
+enchantment.uniqueebattle.ares_grace.desc=增加对身穿护甲的敌人的伤害。
+enchantment.uniqueebattle.celestial_blessing=星空祈佑
+enchantment.uniqueebattle.celestial_blessing.desc=在晚上拥有该附魔的武器的攻击速度/拉弓速度会增加。
+enchantment.uniqueebattle.fury=狂怒
+enchantment.uniqueebattle.fury.desc=提高攻击速度。暴击时有几率将目标手中的物品移入物品栏或者掉落。
+enchantment.uniqueebattle.golem_soul=傀儡之魂
+enchantment.uniqueebattle.golem_soul.desc=牺牲移速换取击退抗性。
+enchantment.uniqueebattle.iron_bird=铁鸟
+enchantment.uniqueebattle.iron_bird.desc=略微增加护甲和韧性，在地面提供额外抗性。
+enchantment.uniqueebattle.streakers_will=裸者意志
+enchantment.uniqueebattle.streakers_will.desc=有几率降低目标的护甲耐久度。
+
+enchantment.uniqueebattle.ares_fragment=战神碎片
+enchantment.uniqueebattle.ares_fragment.desc=每次命中都可以增加或减少你造成的伤害，几率随着玩家等级的增加而增加。
+enchantment.uniqueebattle.artemis_soul=狩猎女神之魂
+enchantment.uniqueebattle.artemis_soul.desc=潜行右键一个铁砧上与末影相关的物品来存储灵魂。杀死一个实体可以在工具中保存灵魂。灵魂会增多掉落物。但是你需要用末影物品或者灵魂来“喂养”它。
+enchantment.uniqueebattle.deep_wounds=重创
+enchantment.uniqueebattle.deep_wounds.desc=攻击没有装备胸甲的实体，会使其流血，流血的伤害会随时间增加。
+enchantment.uniqueebattle.ifrits_blessing=炎神祈佑
+enchantment.uniqueebattle.ifrits_blessing.desc=攻击燃烧的生物会造成额外的伤害，如果你也在燃烧，则伤害加成会指数级增加。
+enchantment.uniqueebattle.granis_soul=格拉尼之魂
+enchantment.uniqueebattle.granis_soul.desc=按下指定的按键开始冲刺，使冲刺开始和结束位置周围的生物流血。
+enchantment.uniqueebattle.ifrits_judgement=炎神裁决
+enchantment.uniqueebattle.ifrits_judgement.desc=使用同种装备攻击同一实体超过 4 次将使自身着火，而少于 4 次便完成击杀则将获得奖励。对箱子潜行右击将奖励放入箱子。
+enchantment.uniqueebattle.lunatic_despair=亡命疯徒
+enchantment.uniqueebattle.lunatic_despair.desc=提高你的攻击伤害，但攻击生物的同时，自己也会受到伤害。
+enchantment.uniqueebattle.wars_odium=战争之恶
+enchantment.uniqueebattle.wars_odium.desc=击杀的生物有几率重生。
+
+tooltip.uniqueebattle.stored.ender.name=储存的末影能量 %s
+tooltip.uniqueebattle.stored.ender.souls.common.name=基本灵魂已储存 %s
+tooltip.uniqueebattle.stored.ender.souls.higher.name=高级灵魂已储存 %s

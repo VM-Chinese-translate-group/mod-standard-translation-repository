@@ -1,0 +1,10 @@
+language.name=简体中文
+language.region=中国
+language.code=zh_cn
+
+###MISSING
+enchantment.extrautils2.xu.boomereaperang.desc=回旋镖可以收获农作物和鲜花
+
+entity.Villager.red_mechanic=红衣牧师
+entity.Villager.alchemist=炼金术师
+entity.Villager.shady_merchant=黑心商人

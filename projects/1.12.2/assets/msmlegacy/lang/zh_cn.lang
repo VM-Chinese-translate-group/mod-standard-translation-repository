@@ -1,0 +1,89 @@
+# Misc
+itemGroup.msmlegacy=更多剑：传承
+msmlegacy.relic.count=Relic %d of %d.
+
+# Item Names
+item.msmlegacy.dawn.star.name=§6黎明之星
+item.msmlegacy.vampiric.blade.name=§4吸血鬼之刃
+item.msmlegacy.gladiolus.name=§2生态环保剑
+item.msmlegacy.draconic.blade.name=§5巨龙之刃
+item.msmlegacy.eye.end.blade.name=§3时空之刃
+item.msmlegacy.crystaline.blade.name=§7雷电之锋
+item.msmlegacy.glacial.blade.name=§9龙泉两仪剑
+item.msmlegacy.aethers.guard.name=§b天境守护者
+item.msmlegacy.wither.bane.name=§8黑暗守护者
+item.msmlegacy.adminium.ark.name=§d神剑
+
+# Enchantment Names
+enchantment.msmlegacy.ignite=点燃
+enchantment.msmlegacy.sparks=火花
+enchantment.msmlegacy.feast=饕餮盛宴
+enchantment.msmlegacy.vitality=活力
+enchantment.msmlegacy.venomous_aspect=剧毒附加
+enchantment.msmlegacy.absorb=伤害吸收
+enchantment.msmlegacy.keen_edge=敏锐之刃
+enchantment.msmlegacy.scorn=蔑视
+enchantment.msmlegacy.ender_pulse=末影增强
+enchantment.msmlegacy.ender_aura=末地灵气
+enchantment.msmlegacy.greed=贪婪
+enchantment.msmlegacy.wisdom=智慧
+enchantment.msmlegacy.frozen_aspect=寒冰附加
+enchantment.msmlegacy.frost_wave=冰霜法术
+enchantment.msmlegacy.ascension=漂浮
+enchantment.msmlegacy.descension=缓降
+enchantment.msmlegacy.decay=腐化
+enchantment.msmlegacy.consuming_shadows=消耗阴影
+enchantment.msmlegacy.stealth=隐匿
+enchantment.msmlegacy.extinction=灭绝
+
+# Enchantment Descriptions
+enchantment.msmlegacy.ignite.desc=攻击会造成额外的灼伤伤害。
+enchantment.msmlegacy.sparks.desc=攻击会使你的附近的敌人着火。
+enchantment.msmlegacy.feast.desc=攻击生物有一定几率恢复一些耐久.
+enchantment.msmlegacy.vitality.desc=右键点击物品将给你一些buff，但会消耗耐久.
+enchantment.msmlegacy.venomous_aspect.desc=攻击会使怪物中毒.
+enchantment.msmlegacy.absorb.desc=攻击有一定几率增加你的饱食度.
+enchantment.msmlegacy.keen_edge.desc=增加普攻.
+enchantment.msmlegacy.scorn.desc=增加在其他维度中的伤害.
+enchantment.msmlegacy.ender_pulse.desc=右键传送到你看着的地方.
+enchantment.msmlegacy.ender_aura.desc=当你受到伤害时，有几率传送走附近随机的一个怪物.
+enchantment.msmlegacy.greed.desc=攻击有一定几率产生额外的经验球.
+enchantment.msmlegacy.wisdom.desc=等级越高，攻击造成的伤害越高.
+enchantment.msmlegacy.frozen_aspect.desc=攻击敌人，使他们获得缓慢效果
+enchantment.msmlegacy.frost_wave.desc=攻击敌人会使他们获得挖掘疲劳.
+enchantment.msmlegacy.ascension.desc=攻击会使你的敌人原地起飞.
+enchantment.msmlegacy.descension.desc=在下落时潜行会降低你的下落速度.
+enchantment.msmlegacy.decay.desc=攻击会使你的敌人获得凋零和饥饿.
+enchantment.msmlegacy.consuming_shadows.desc=攻击会使你的的敌人凋零和失明.
+enchantment.msmlegacy.stealth.desc=右键使您隐身。再次右击关闭.
+enchantment.msmlegacy.extinction.desc=击杀怪物将导致该维度所有这个怪物死亡.
+
+# JEI Descriptions
+jei.item.msmlegacy.dawn.star=用地狱之炎锻造的刀.
+jei.item.msmlegacy.vampiric.blade=一把嗜血的利刃.
+jei.item.msmlegacy.gladiolus=一把生态环保的剑.
+jei.item.msmlegacy.draconic.blade=用神龙之力锻造的剑.
+jei.item.msmlegacy.eye.end.blade=一把注入末影能量的剑.
+jei.item.msmlegacy.crystaline.blade=一把在阳光下璀璨闪亮的水晶剑.
+jei.item.msmlegacy.glacial.blade=一把有古老寒冰锻造而成剑.
+jei.item.msmlegacy.aethers.guard=一把掌控风和天空的剑.
+jei.item.msmlegacy.wither.bane=一片充满黑暗力量的腐败之刃.
+jei.item.msmlegacy.adminium.ark=一把古老而坚韧的剑。据说只有服务器管理员可以使用它。
+
+# Relic Names
+item.msmlegacy.relic.aqueous.name=辣椒剑
+item.msmlegacy.relic.candy.name=糖果刀
+item.msmlegacy.relic.infinity.name=无尽之剑
+item.msmlegacy.relic.keyblade.name=钥匙刃
+item.msmlegacy.relic.master.name=大师剑
+item.msmlegacy.relic.molten.name=熔融之剑
+item.msmlegacy.relic.pie.name=蛋糕剑
+
+# Relic Descriptions
+jei.item.msmlegacy.relic.aqueous=A sword based on water and the ocean. It was later replaced by the Glacial Edge.
+jei.item.msmlegacy.relic.candy=这把节日宝剑是一个被遗忘已久的节日活动的一部分.
+jei.item.msmlegacy.relic.infinity=一种基于同名游戏的剑.
+jei.item.msmlegacy.relic.keyblade=以王国之心钥匙刃为原型的刀。它是用青金石做的。
+jei.item.msmlegacy.relic.master=以塞尔达传说系列中的大师剑为原型的剑。
+jei.item.msmlegacy.relic.molten=由熔岩锻造而成的剑。它后来被黎明之星取代
+jei.item.msmlegacy.relic.pie=这把刀是一个早已被遗忘的节日的一部分。

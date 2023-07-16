@@ -1,0 +1,5 @@
+en_us中
+relic_type.power.instruction
+relic_type.enchantment.instruction
+relic_type.incantation.instruction
+三个key是被整合包作者修改的，与模组原文不同，我直接嵌入了语言文件，务必务必务必在zh_cn中更改

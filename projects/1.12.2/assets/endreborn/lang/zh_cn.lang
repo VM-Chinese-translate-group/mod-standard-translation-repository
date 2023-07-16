@@ -1,0 +1,12 @@
+language.name=简体中文
+language.region=中国大陆
+language.code=zh_cn
+
+###MISSING
+enchantment.endreborn.ender_core.desc=受到攻击时随机传送。
+enchantment.endreborn.ender_killer.desc=对末地生物造成额外伤害。
+enchantment.endreborn.shulker_core.desc=命中目标时使其飘浮。
+
+entity.Villager.endreborn.overworld_explorer=主世界探险家
+entity.Villager.endreborn.end_explorer=末地探险家
+entity.Villager.endreborn.nether_explorer=下界探险家

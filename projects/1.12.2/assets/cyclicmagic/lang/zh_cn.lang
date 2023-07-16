@@ -1,0 +1,8 @@
+
+#Tooltip is missing. Guide has 2 entries, short one is actually tooltip, long one should be guide
+
+###CORRECTION
+item.cyclic_wand_build.guide=高级的远程建筑工具。有一个用于改变方向的自定义HUD（潜行+滚动鼠标滚轮改变），在它的物品栏中放入要建筑的方块。它具有不同的建筑模式：随机，标准和逐个。
+
+###MISSING
+item.cyclic_wand_build.tooltip=高级的远程建筑工具

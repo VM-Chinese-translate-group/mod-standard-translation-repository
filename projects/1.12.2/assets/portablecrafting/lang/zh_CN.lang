@@ -1,0 +1,12 @@
+# Item Localizations
+item.portablecrafting:portable_crafter.name=便携工作台
+item.portablecrafting:crafting_core.name=合成核心
+
+# Creative tab Localization
+itemGroup.portablecrafting=便携合成
+
+# Misc stuff
+crafting.portablecrafting=便携合成
+
+# Keybindings
+key.open_portable_crafter.desc=打开工作台

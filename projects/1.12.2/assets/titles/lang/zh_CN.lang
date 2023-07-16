@@ -1,0 +1,97 @@
+# Configuration (+Keybindings)
+keybind.titles.openTitleSelection=打开头衔选择界面
+
+# GUI (+Container)
+gui.titles.cancel=取消
+gui.titles.confirm=确认
+gui.titles.random=随机
+gui.titles.none=无
+gui.titles.purchase=购买
+gui.titles.close=关闭
+gui.titles.titleselection.empty=解锁成就以获得头衔!
+gui.titles.titlearchive.empty=你已经购买了所有可用标题。
+
+# Commands
+commands.titles.usage=/titles <command>
+
+# Entities
+
+# Items
+itemGroup.titles=头衔
+item.titleArchive.name=头衔档案
+item.archiveFragment.name=档案碎片
+
+# Blocks (+Tile Entities)
+
+# Misc
+chat.title.add=%s 解锁了头衔 (%s) 
+titles.modid=头衔
+
+# Advancements
+advancement.titles.root.desc=展露你的功绩
+advancement.titles.spelunker=你还能到多深？
+advancement.titles.spelunker.desc=到达Y轴20格以下！
+advancement.titles.chicken_chaser=你抓小鸡吗！
+advancement.titles.chicken_chaser.desc=击杀一只小鸡
+advancement.titles.captain=扬帆起航！
+advancement.titles.captain.desc=获得一艘船
+advancement.titles.opulent=难以置信！
+advancement.titles.opulent.desc=仅用钻石块搭建信标底座！
+advancement.titles.melon_lord=呜哇哈哈哈！
+advancement.titles.melon_lord.desc=带上南瓜头
+
+# Titles
+#titles
+title.titles.spelunker=洞穴探险家
+title.titles.chicken_chaser=追鸡人
+title.titles.captain=船长
+title.titles.opulent=腰缠万贯
+title.titles.melon_lord=南瓜魔王
+
+#story
+title.minecraft.story.root=工匠
+title.minecraft.story.mine_stone=山顶洞人
+title.minecraft.story.obtain_armor=铸甲师
+title.minecraft.story.iron_tools=矿工
+title.minecraft.story.deflect_arrow=持盾勇者
+title.minecraft.story.enter_the_nether=地狱行者
+title.minecraft.story.enchant_item=附魔师
+title.minecraft.story.cure_zombie_villager=净化者
+title.minecraft.story.enter_the_end=终末行者
+
+#husbandry
+title.minecraft.husbandry.root=农夫
+title.minecraft.husbandry.breed_an_animal=牧场主
+title.minecraft.husbandry.tame_an_animal=宠物爱好者
+title.minecraft.husbandry.bred_all_animals=造物主
+title.minecraft.husbandry.balanced_diet=美食家
+title.minecraft.husbandry.break_diamond_hoe=农业学家
+
+#adventure
+title.minecraft.adventure.root=冒险家
+title.minecraft.adventure.kill_a_mob=猎手
+title.minecraft.adventure.trade=商人
+title.minecraft.adventure.shoot_arrow=弓箭手
+title.minecraft.adventure.kill_all_mobs=战利品猎手
+title.minecraft.adventure.totem_of_undying=不死之人
+title.minecraft.adventure.summon_iron_golem=撒玛利亚人
+title.minecraft.adventure.adventuring_time=旅人
+title.minecraft.adventure.sniper_duel=狙击手
+
+#nether
+title.minecraft.nether.fast_travel=空间穿梭者
+title.minecraft.nether.return_to_sender=邮递员
+title.minecraft.nether.uneasy_alliance=背叛者
+title.minecraft.nether.brew_potion=酿造师
+title.minecraft.nether.all_potions=炼金术师
+title.minecraft.nether.all_effects=超负荷
+title.minecraft.nether.create_full_beacon=建筑师
+
+#end
+title.minecraft.end.kill_dragon=屠龙勇士
+title.minecraft.end.dragon_egg=窃蛋者
+title.minecraft.end.enter_end_gateway=虚空行者
+title.minecraft.end.respawn_dragon=复活者
+title.minecraft.end.dragon_breath=危险人员
+title.minecraft.end.elytra=翱翔天际
+title.minecraft.end.levitate=飘浮者

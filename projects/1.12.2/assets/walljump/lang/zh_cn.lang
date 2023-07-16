@@ -1,0 +1,8 @@
+language.name=简体中文
+language.region=中国大陆
+language.code=zh_cn
+
+###MISSING
+enchantment.walljump.walljump.desc=使你能够蹬墙跳(当useWallJump在config中被禁用时)
+enchantment.walljump.doublejump.desc=每级给予一段额外的跳跃。
+enchantment.walljump.speedboost.desc=增加疾跑速度。

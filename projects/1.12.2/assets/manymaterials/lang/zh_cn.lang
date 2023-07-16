@@ -1,0 +1,11 @@
+#missing material entry
+item.manymaterials:material.name=未知材料
+#material names
+item.manymaterials:corrupted_prism.name=腐化棱镜
+item.manymaterials:arcane_amalgam.name=奥术合金
+item.manymaterials:ancient_fragments.name=远古碎片
+item.manymaterials:orb_of_potential.name=潜能宝珠
+item.manymaterials:spectral_mass.name=幽灵团
+item.manymaterials:golden_circlet.name=金质圆环
+itemGroup.tabManyMaterials=许多材料
+item.manymaterials:unknown.name=未知材料
