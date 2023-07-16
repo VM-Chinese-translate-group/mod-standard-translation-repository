@@ -1,0 +1,30 @@
+{ 
+   "itemGroup.merequester": "ME请求器", 
+  
+   "item.merequester.requester_terminal": "ME请求器终端", 
+   "block.merequester.requester": "ME请求器", 
+  
+   "gui.merequester.requester_terminal": "ME请求终端", 
+   "gui.merequester.no_requesters": "未发现ME请求器！", 
+  
+   "tooltip.merequester.requester_desc": "通过自动发请求任务来保持系统中一定数量的物品或流体。必须接入一个ME网络, 另外可通过ME请求器终端访问。", 
+  
+   "tooltip.merequester.shift_for_more": "%s更多", 
+   "tooltip.merequester.enter_to_submit": "%s确认", 
+  
+   "tooltip.merequester.whole_number": "必须为数字！", 
+   "tooltip.merequester.locked": "锁定！请求正在进行中。", 
+  
+   "tooltip.merequester.toggle": "请求开关", 
+   "tooltip.merequester.amount": "保持数量", 
+   "tooltip.merequester.batch": "批处理数量", 
+   "tooltip.merequester.submit": "提交确认", 
+   "tooltip.merequester.status": "任务状态", 
+  
+   "tooltip.merequester.idle": "空闲", 
+   "tooltip.merequester.idle_desc": "当达到设定数量时请求器请求器处于空闲状态，没有有效的合成样板或者没有足够的原料来合成。", 
+   "tooltip.merequester.link": "合成中", 
+   "tooltip.merequester.link_desc": "系统正在合成对应的物品或流体。", 
+   "tooltip.merequester.export": "输出中", 
+   "tooltip.merequester.export_desc": "请求器正在尝试向系统中输入结果，如果请求器长时间处于这个状态，说明系统中没有足够的可用空间。" 
+ }

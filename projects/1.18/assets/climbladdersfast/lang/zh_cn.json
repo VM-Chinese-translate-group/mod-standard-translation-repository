@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.climbladdersfast.option.climbUpSpeed": "爬升速度",
+  "text.autoconfig.climbladdersfast.option.climbDownSpeed": "下降速度",
+  "text.autoconfig.climbladdersfast.option.disableScaffoldingFastClimbing": "禁用脚手架快速攀爬",
+  "text.autoconfig.climbladdersfast.option.disableScaffoldingCollision": "禁用脚手架碰撞箱",
+  "text.autoconfig.climbladdersfast.option.disableVinesFastClimbing": "禁用藤蔓快速攀爬",
+  "text.autoconfig.climbladdersfast.title": "快速爬梯子"
+}

@@ -1,0 +1,40 @@
+{
+  "itemGroup.soulshards": "灵魂碎片 重生",
+
+  "item.soulshards.soul_shard": "灵魂碎片",
+  "item.soulshards.soul_shard_unbound": "未绑定的灵魂碎片",
+  "item.soulshards.corrupted_ingot": "腐化金属锭",
+  "item.soulshards.corrupted_essence": "腐化精华",
+  "item.soulshards.vile_dust": "污秽粉末",
+  "item.soulshards.vile_sword": "污秽剑",
+
+  "block.soulshards.soul_cage": "灵魂笼",
+
+  "tooltip.soulshards.bound": "绑定到：%s",
+  "tooltip.soulshards.kills": "灵魂：%d",
+  "tooltip.soulshards.tier": "等级：%d",
+  "tooltip.soulshards.owner": "所有者：%s",
+  "tooltip.soulshards.cage_born": "笼子出生",
+
+  "enchantment.soulshards.soul_stealer": "窃魂者",
+
+  "chat.soulshards.absorb_disabled": "§c这个灵魂碎片似乎拒绝捕获灵魂……",
+  "chat.soulshards.command_killed": "&2%d个实体已击杀",
+  "chat.soulshards.command_not_found": "&c找不到任何生成的实体",
+
+  "commands.soulshards.usage": "/soulshards [setEnt|setKills|setOwner|killall]",
+  "commands.soulshards.set_ent.usage": "/soulshards setEnt <实体Id>",
+  "commands.soulshards.set_ent.success": "将持有碎片的绑定实体设置为%s",
+  "commands.soulshards.set_kills.usage": "/soulshards setKills <击杀数>",
+  "commands.soulshards.set_kills.success": "将保留碎片的实体杀死计数设置为 %d。",
+  "commands.soulshards.set_owner.usage": "/soulshards setOwner [所有者]",
+  "commands.soulshards.set_owner.success": "已将手持的碎片所有者设置为%s。",
+  "commands.soulshards.kill_all.usage": "/soulshards killall",
+  "commands.soulshards.kill_all.success": "从灵魂笼刷出的%d已被击杀。",
+  "commands.soulshards.error.not_a_shard": "手持的物品不是灵魂碎片。",
+  "commands.soulshards.error.not_a_entity": "%s无效或未注册。",
+
+  "enchantment.soulshards.soul_stealer.desc": "每升一级，每次击杀收集的灵魂数量都会增加一个",
+
+  "jei.soulshards.soul_shard.desc": "被杀后灵魂的容器。\\n\\n通过在世界中搭建一个结构并在中心方块上使用%s来获得。"
+}
