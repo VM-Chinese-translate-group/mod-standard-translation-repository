@@ -1,0 +1,20 @@
+{
+  "_comment": "Creative Tab Name",
+  "itemGroup.structurecompass": "结构指南针",
+
+
+  "structurecompass.screen.selection.title": "结构选择",
+  "structurecompass.screen.selection.load": "加载",
+  "structurecompass.screen.search": "搜索",
+  "structurecompass.screen.search.a_to_z": "A-Z",
+  "structurecompass.screen.search.z_to_a": "Z-A",
+
+  "item.structurecompass.structure_compass": "结构指南针",
+
+  "structurecompass.locate.invalid": "绑定结构无效。请重新绑定",
+  "structurecompass.locate.fail": "附近无法找到结构",
+
+  "structurecompass.structure.found.tooltip": "%s已经找到，指南针正在指向结构",
+  "structurecompass.structure.failed.tooltip": "%s无法找到，请稍后再试",
+  "structurecompass.structure.unset.tooltip": "没有绑定结构，请右击选择一个结构"
+}
