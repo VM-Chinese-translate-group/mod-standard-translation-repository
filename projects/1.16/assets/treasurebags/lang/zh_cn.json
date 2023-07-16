@@ -1,0 +1,17 @@
+{
+  "command.treasurebags.give.invalid": "无效背包类型：%s",
+  "command.treasurebags.give.success": "把%1$sx%2$s给予%3$s",
+  "item.treasurebags.treasure_bag": "宝箱",
+  "item.treasurebags.treasure_bag.invalidType": "无效类型",
+  "item.treasurebags.treasure_bag.type": "类型：§r %s",
+  "item.treasurebags.treasure_bag.unknownType": "未知类型",
+  "bag.treasurebags.dungeon": "地牢袋",
+  "bag.treasurebags.ender": "末影袋",
+  "bag.treasurebags.food": "外卖袋",
+  "bag.treasurebags.ingots": "Smelter的聚会袋",
+  "bag.treasurebags.literacy": "读写袋",
+  "bag.treasurebags.nature": "自然袋",
+  "bag.treasurebags.player": "玩家袋",
+  "bag.treasurebags.spawn": "首次出生袋",
+  "bag.treasurebags.sticks_and_stones": "木棍和石头袋"
+}

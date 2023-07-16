@@ -1,0 +1,23 @@
+{
+	"block.betterbeekeeping.bee_smoker_block": "驱蜂烟雾",
+	"block.betterbeekeeping.oak_beehive": "橡木蜂箱",
+	"block.betterbeekeeping.dark_oak_beehive": "深色橡木蜂箱",
+	"block.betterbeekeeping.spruce_beehive": "云杉木蜂箱",
+	"block.betterbeekeeping.acacia_beehive": "金合欢木蜂箱",
+	"block.betterbeekeeping.birch_beehive": "白桦木蜂箱",
+	"block.betterbeekeeping.jungle_beehive": "丛林木蜂箱",
+	"block.betterbeekeeping.crimson_beehive": "绯红木蜂箱",
+	"block.betterbeekeeping.warped_beehive": "诡异木蜂箱",
+	"item.betterbeekeeping.cool_honey_bottle": "凉爽蜂蜜瓶",
+	"item.betterbeekeeping.warm_honey_bottle": "温暖蜂蜜瓶",
+	"item.betterbeekeeping.spicy_honey_bottle": "火辣蜂蜜瓶",
+	"item.betterbeekeeping.lively_honey_bottle": "鲜活蜂蜜瓶",
+	"item.betterbeekeeping.bright_honey_bottle": "明亮蜂蜜瓶",
+	"item.betterbeekeeping.strange_honey_bottle": "怪异蜂蜜瓶",
+	"advancements.betterbeekeeping.think_honey.title": "现在你在思考蜂蜜",
+	"advancements.betterbeekeeping.think_honey.description": "收集一些蜜脾来做蜂巢",
+	"advancements.betterbeekeeping.smoke_machine.title": "烟机",
+	"advancements.betterbeekeeping.smoke_machine.description": "为忙碌的朋友制作躯蜂烟雾.",
+	"advancements.betterbeekeeping.bee_friends.title": "让我们做蜜蜂朋友",
+	"advancements.betterbeekeeping.bee_friends.description": "在它们的新家拜访你的蜜蜂"	
+}

@@ -1,0 +1,46 @@
+{
+  "item.dreadsteel.kit_default": "末影紫色染料套件",
+
+  "item.dreadsteel.kit_white": "龙霜白色染料套件",
+
+  "item.dreadsteel.kit_black": "冥府黑色染料套件",
+
+  "item.dreadsteel.kit_bronze": "龙炎棕色染料套件",
+
+  "item.dreadsteel.dreadsteel_ingot": "悚怖钢锭",
+
+  "item.dreadsteel.dreadsteel_helmet": "悚怖钢头盔",
+
+  "item.dreadsteel.dreadsteel_chestplate": "悚怖钢胸甲",
+
+  "item.dreadsteel.dreadsteel_leggings": "悚怖钢护腿",
+
+  "item.dreadsteel.dreadsteel_boots": "悚怖钢战靴",
+
+  "item.dreadsteel.dreadsteel_scythe": "悚怖魔镰",
+
+  "item.dreadsteel.dreadsteel_shield": "悚怖钢盾",
+
+
+
+  "tooltip.dreadsteel.dreadsteel_ingot": "\u00A77你听到火焰中传来阵阵低语\u00A7r",
+
+  "tooltip.dreadsteel.cosmetic_kit": "\u00A77右键消耗以染色所有当前已装备和手持的悚怖钢物品\u00A7r",
+
+  "tooltip.dreadsteel.dreadsteel_scythe": "\u00A77攻击时：召唤一阵旋转剑气，击中时刺穿所有敌人和盔甲\u00A7r",
+
+  "tooltip.dreadsteel.dreadsteel_shield": "\u00A77格挡时焚化所有的弹射物，并点燃近战攻击者\u00A7r",
+
+  "tooltip.dreadsteel.dreadsteel_setbonus": "\u00A77全套效果：免疫闪电、火焰和尖刺伤害\u00A7r",
+
+
+
+  "tooltip.dreadsteel.dreadsteel_color_white": "\u00A77颜色:\u00A7r \u00A7f龙霜白\u00A7r",
+
+  "tooltip.dreadsteel.dreadsteel_color_black": "\u00A77颜色:\u00A7r \u00A78冥府黑\u00A7r",
+
+  "tooltip.dreadsteel.dreadsteel_color_bronze": "\u00A77颜色:\u00A7r \u00A76龙炎棕\u00A7r",
+
+  "tooltip.dreadsteel.dreadsteel_color_default": "\u00A77颜色:\u00A7r \u00A77末影紫\u00A7r"
+
+}
