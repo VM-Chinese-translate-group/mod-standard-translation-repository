@@ -52,7 +52,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
         with:
 
           tag_name: ${{ steps.create_timestamp.outputs.timestamp }} 
@@ -73,8 +73,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
-
+          GITHUB_TOKEN: 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
         with:
 
           upload_url: ${{ steps.create_release.outputs.upload_url }}
@@ -91,7 +90,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
 
         with:
 
@@ -109,7 +108,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
 
         with:
 
@@ -127,7 +126,7 @@ jobs:
 
         env:
 
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
 
         with:
 
