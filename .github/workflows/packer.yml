@@ -53,6 +53,9 @@ jobs:
           name: VM汉化组模组汉化包1.19.zip
           path: temp/1.19
 
+      - name: Copy 1.20 folder
+        run: cp -r projects/1.20 temp/1.20
+        
       - name: Upload 1.20 artifact
         uses: actions/upload-artifact@v2
         with:
