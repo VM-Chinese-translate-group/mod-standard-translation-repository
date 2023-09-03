@@ -45,13 +45,13 @@
     "block.colossalchests.interface": "巨型箱子交界面",
     "block.colossalchests.interface.info": "用于和管道或漏斗相连",
     "block.colossalchests.uncolossal_chest": "微缩箱子",
-    "block.colossalchests.uncolossal_chest.info": "这才是最大的箱子！！！",
+    "block.colossalchests.uncolossal_chest.info": "它们之中最大的箱子！",
 
     "_comment": "Items",
     "item.colossalchests.upgrade_tool": "箱子升级工具",
     "item.colossalchests.upgrade_tool.info": "在物品栏拥有所需材料的前提下将箱子升级到下一个等级。",
     "item.colossalchests.upgrade_tool_reverse": "箱子降级工具",
-    "item.colossalchests.upgrade_tool_reverse.info": "在物品栏拥有所需材料的前提下将箱子降低一个等级。需要注意的是，多出来的东西会蹦的满地都是。",
+    "item.colossalchests.upgrade_tool_reverse.info": "在物品栏拥有所需材料的前提下将箱子降级到上一个等级。 警告：如果箱子太小，放不下里面的东西，物品可能会弹出。",
 
     "_comment": "Materials",
     "material.colossalchests.wood": "木质",
