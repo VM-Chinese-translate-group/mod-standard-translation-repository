@@ -1,0 +1,12 @@
+{
+	"item.bygonenether.netherite_bell": "下界合金钟",
+	"item.bygonenether.gilded_netherite_shield": "镶金下界合金盾牌",
+	"item.bygonenether.withered_blackstone_vertical_slab": "凋零黑石竖直台阶",
+	"item.bygonenether.cracked_withered_blackstone_vertical_slab": "裂纹凋零黑石竖直台阶",
+	"item.bygonenether.warped_nether_brick_vertical_slab": "诡异下界砖竖直台阶",
+	"block.bygonenether.netherite_bell": "下界合金钟",
+	"block.bygonenether.withered_blackstone_vertical_slab": "凋零黑石竖直台阶",
+	"block.bygonenether.cracked_withered_blackstone_vertical_slab": "裂纹凋零黑石竖直台阶",
+	"block.bygonenether.warped_nether_brick_vertical_slab": "诡异下界砖竖直台阶",
+	"itemGroup.bygonenethertab": "古老下界"
+}
