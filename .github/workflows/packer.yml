@@ -12,55 +12,28 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Create temporary directory
         run: mkdir temp
 
-      - name: Copy 1.12.2 folder
-        run: cp -r projects/1.12.2 temp/1.12.2
+      - name: Copy and Upload artifacts
+        run: |
+          for version in 1.12.2 1.16 1.18 1.19 1.20; do
+            cp -r projects/$version temp/$version
+            zip -r temp/VM汉化组模组汉化包$version temp/$version
+          done
 
-      - name: Upload 1.12.2 artifact
-        uses: actions/upload-artifact@v2
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
         with:
-          name: VM汉化组模组汉化包1.12.2.zip
-          path: temp/1.12.2
-
-      - name: Copy 1.16 folder
-        run: cp -r projects/1.16 temp/1.16
-
-      - name: Upload 1.16 artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: VM汉化组模组汉化包1.16.zip
-          path: temp/1.16
-
-      - name: Copy 1.18 folder
-        run: cp -r projects/1.18 temp/1.18
-
-      - name: Upload 1.18 artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: VM汉化组模组汉化包1.18.zip
-          path: temp/1.18
-
-      - name: Copy 1.19 folder
-        run: cp -r projects/1.19 temp/1.19
-
-      - name: Upload 1.19 artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: VM汉化组模组汉化包1.19.zip
-          path: temp/1.19
-
-      - name: Copy 1.20 folder
-        run: cp -r projects/1.20 temp/1.20
-        
-      - name: Upload 1.20 artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: VM汉化组模组汉化包1.20.zip
-          path: temp/1.20
+          name: VM汉化组模组汉化包
+          path: |
+            temp/VM汉化组模组汉化包1.12.2
+            temp/VM汉化组模组汉化包1.16
+            temp/VM汉化组模组汉化包1.18
+            temp/VM汉化组模组汉化包1.19
+            temp/VM汉化组模组汉化包1.20
 
       - name: Clean up temporary directory
         run: rm -rf temp
