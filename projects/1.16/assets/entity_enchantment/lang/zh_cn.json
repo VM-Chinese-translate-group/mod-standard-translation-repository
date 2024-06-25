@@ -1,0 +1,15 @@
+{
+    "block.entity_enchantment.enchantment_transfuser":"魔咒注入器",
+    "command.entity_enchantment.apply":"已将魔咒%1$s应用到%2$s个目标",
+    "command.entity_enchantment.could_not_find":"未能找到魔咒%s",
+    "entity_enchantment.entity_enchantment.armor":"盔甲",
+    "entity_enchantment.entity_enchantment.frostborn":"冰霜之子",
+    "entity_enchantment.entity_enchantment.illusion":"幻觉",
+    "entity_enchantment.entity_enchantment.infernal":"地狱",
+    "entity_enchantment.entity_enchantment.reflect":"反射",
+    "entity_enchantment.entity_enchantment.speed":"迅捷",
+    "entity_enchantment.entity_enchantment.strength":"力量",
+    "entity_enchantment.entity_enchantment.unstable":"不稳定",
+    "item.entity_enchantment.enchanted_scroll":"附魔卷轴",
+    "item.entity_enchantment.scroll":"卷轴"
+}

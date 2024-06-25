@@ -1,0 +1,14 @@
+{
+    "autoleveling.level":"Lv.%s",
+    "config.jade.plugin_autoleveling.level":"级",
+    "item.autoleveling.blacklist_tool":"黑名单工具",
+    "item.autoleveling.blacklist_tool.added":"%s已被添加至黑名单",
+    "item.autoleveling.blacklist_tool.removed":"%s已从黑名单中移除",
+    "item.autoleveling.blacklist_tool.tooltip":"§e从黑名单中移除或添加实体",
+    "item.autoleveling.whitelist_tool":"白名单工具",
+    "item.autoleveling.whitelist_tool.added":"%s已被添加至白名单",
+    "item.autoleveling.whitelist_tool.removed":"%s已从白名单中移除",
+    "item.autoleveling.whitelist_tool.tooltip":"§e从白名单中移除或添加实体",
+    "itemGroup.autoleveling":"自动调级工具",
+    "jade.autoleveling.tooltip":"等级：%d"
+}
