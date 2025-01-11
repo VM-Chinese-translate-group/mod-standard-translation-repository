@@ -44,23 +44,14 @@ jobs:
           name: VM汉化组模组汉化包1.18
           path: temp/1.18
 
-      - name: Copy 1.19 folder
-        run: cp -r projects/1.19 temp/1.19
+      - name: Copy 1.19+ folder
+        run: cp -r projects/1.19+ temp/1.19+
 
-      - name: Upload 1.19 artifact
+      - name: Upload 1.19+ artifact
         uses: actions/upload-artifact@v4
         with:
-          name: VM汉化组模组汉化包1.19
-          path: temp/1.19
-
-      - name: Copy 1.20 folder
-        run: cp -r projects/1.20 temp/1.20
-        
-      - name: Upload 1.20 artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: VM汉化组模组汉化包1.20
-          path: temp/1.20
+          name: VM汉化组模组汉化包1.19及以上
+          path: temp/1.19+
 
       - name: Clean up temporary directory
         run: rm -rf temp

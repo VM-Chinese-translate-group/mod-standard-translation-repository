@@ -1,0 +1,16 @@
+{
+  "config.betterthanbunnies.cat.general.name": "常规设置",
+  "config.betterthanbunnies.cat.general.desc": "这些选项是常规设置，不适用与其他分类。",
+  "config.betterthanbunnies.cat.outfit.name": "服装设置",
+  "config.betterthanbunnies.cat.outfit.desc": "关于兔子服装的一些设置",
+  "config.betterthanbunnies.prop.fancyChance.name": "花哨兔几率",
+  "config.betterthanbunnies.prop.fancyChance.desc": "兔子穿衣服的几率，以百分数表示 (0-100%)。",
+  "config.betterthanbunnies.prop.hatChance.name": "礼帽兔几率",
+  "config.betterthanbunnies.prop.hatChance.desc": "兔子戴礼帽的几率，以百分数表示 (0-100%)。",
+  "config.betterthanbunnies.prop.monocleChance.name": "单片眼镜兔几率",
+  "config.betterthanbunnies.prop.monocleChance.desc": "兔子戴单片眼镜的几率，以百分数表示 (0-100%)。",
+  "config.betterthanbunnies.prop.pipeChance.name": "烟斗兔几率",
+  "config.betterthanbunnies.prop.pipeChance.desc": "兔子戴烟袋的几率，以百分数表示 (0-100%)",
+  "config.betterthanbunnies.prop.suitChance.name": "西服兔几率",
+  "config.betterthanbunnies.prop.suitChance.desc": "兔子穿西服的几率，以百分数表示 (0-100%)"
+}
