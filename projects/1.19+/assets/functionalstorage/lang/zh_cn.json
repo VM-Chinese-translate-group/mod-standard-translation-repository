@@ -1,0 +1,5 @@
+{
+    "storageupgrade.desc.fluid":"方块流体存储量乘以",
+    "storageupgrade.desc.item":"物品流体存储量乘以",
+    "storageupgrade.desc.range":"控制器半径增加%s方块"
+}
