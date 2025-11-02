@@ -1,6 +1,9 @@
 {
   "pack": {
     "pack_format": 12,
+    "supported_formats": [12, 999],
+    "min_format": 12,
+    "max_format": [999, 0]
     "description": "VM汉化组1.19及以上模组汉化包"
   }
 }

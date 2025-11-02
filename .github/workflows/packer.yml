@@ -1,57 +1,39 @@
 name: Packer
 on:
   push:
-    branches:
-      - main
     paths:
       - 'projects/**'
 
 jobs:
-  build:
+  pack:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Create temporary directory
-        run: mkdir temp
+      - name: Create temp directory
+        run: mkdir -p temp
 
-      - name: Copy 1.12.2 folder
-        run: cp -r projects/1.12.2 temp/1.12.2
+      - name: Zip each project folder separately
+        run: |
+          for dir in projects/*; do
+            [ -d "$dir" ] || continue
+            version=$(basename "$dir")
+            safe_name=$(echo "$version" | sed 's/+/plus/g')
+            zip -r "temp/${safe_name}.zip" "$dir"
+          done
 
-      - name: Upload 1.12.2 artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: VM汉化组模组汉化包1.12.2
-          path: temp/1.12.2
+      - name: Upload each artifact separately
+        run: |
+          for zipfile in temp/*.zip; do
+            base=$(basename "$zipfile" .zip)
+            artifact_name="VM汉化组模组汉化包${base}"
+            echo "Uploading $zipfile as $artifact_name"
+            gh run upload-artifact "$artifact_name" "$zipfile"
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Copy 1.16 folder
-        run: cp -r projects/1.16 temp/1.16
-
-      - name: Upload 1.16 artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: VM汉化组模组汉化包1.16
-          path: temp/1.16
-
-      - name: Copy 1.18 folder
-        run: cp -r projects/1.18 temp/1.18
-
-      - name: Upload 1.18 artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: VM汉化组模组汉化包1.18
-          path: temp/1.18
-
-      - name: Copy 1.19+ folder
-        run: cp -r projects/1.19+ temp/1.19+
-
-      - name: Upload 1.19+ artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: VM汉化组模组汉化包1.19及以上
-          path: temp/1.19+
-
-      - name: Clean up temporary directory
+      - name: Clean up
         run: rm -rf temp

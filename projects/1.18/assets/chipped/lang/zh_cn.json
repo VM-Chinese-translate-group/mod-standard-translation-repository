@@ -64,7 +64,7 @@
 
   	"block.chipped.amethyst_block_1": "磨制紫水晶块",
 	"block.chipped.amethyst_block_2": "微型砖沿紫水晶块",
-	"block.chipped.amethyst_block_3": "雕纹紫水晶块",
+	"block.chipped.amethyst_block_3": "錾制紫水晶块",
 	"block.chipped.amethyst_block_4": "环纹紫水晶块",
 	"block.chipped.amethyst_block_5": "不悦徽紫水晶浮雕",
 	"block.chipped.amethyst_block_6": "嵌花紫水晶块",
@@ -134,7 +134,7 @@
 
   	"block.chipped.ancient_debris_1": "磨制远古残骸",
 	"block.chipped.ancient_debris_2": "微型砖沿远古残骸",
-	"block.chipped.ancient_debris_3": "雕纹远古残骸",
+	"block.chipped.ancient_debris_3": "錾制远古残骸",
 	"block.chipped.ancient_debris_4": "环纹远古残骸",
 	"block.chipped.ancient_debris_5": "不悦徽远古残骸浮雕",
 	"block.chipped.ancient_debris_6": "嵌花远古残骸",
@@ -204,7 +204,7 @@
 
   	"block.chipped.andesite_1": "磨制安山岩",
 	"block.chipped.andesite_2": "微型砖沿安山岩",
-	"block.chipped.andesite_3": "雕纹安山岩",
+	"block.chipped.andesite_3": "錾制安山岩",
 	"block.chipped.andesite_4": "环纹安山岩",
 	"block.chipped.andesite_5": "不悦徽安山岩浮雕",
 	"block.chipped.andesite_6": "嵌花安山岩",
@@ -308,7 +308,7 @@
 
   	"block.chipped.basalt_1": "磨制玄武岩",
 	"block.chipped.basalt_2": "微型砖沿玄武岩",
-	"block.chipped.basalt_3": "雕纹玄武岩",
+	"block.chipped.basalt_3": "錾制玄武岩",
 	"block.chipped.basalt_4": "环纹玄武岩",
 	"block.chipped.basalt_5": "不悦徽玄武岩浮雕",
 	"block.chipped.basalt_6": "嵌花玄武岩",
@@ -598,7 +598,7 @@
 
 	"block.chipped.blackstone_1": "磨制黑石",
 	"block.chipped.blackstone_2": "微型砖沿黑石",
-	"block.chipped.blackstone_3": "雕纹黑石",
+	"block.chipped.blackstone_3": "錾制黑石",
 	"block.chipped.blackstone_4": "环纹黑石",
 	"block.chipped.blackstone_5": "不悦徽黑石浮雕",
 	"block.chipped.blackstone_6": "嵌花黑石",
@@ -702,7 +702,7 @@
 
   	"block.chipped.blue_ice_1": "磨制蓝冰",
 	"block.chipped.blue_ice_2": "微型砖沿蓝冰",
-	"block.chipped.blue_ice_3": "雕纹蓝冰",
+	"block.chipped.blue_ice_3": "錾制蓝冰",
 	"block.chipped.blue_ice_4": "环纹蓝冰",
 	"block.chipped.blue_ice_5": "不悦徽蓝冰浮雕",
 	"block.chipped.blue_ice_6": "嵌花蓝冰",
@@ -1086,7 +1086,7 @@
 
 	"block.chipped.bricks_1": "磨制红砖块",
 	"block.chipped.bricks_2": "微型砖沿红砖块",
-	"block.chipped.bricks_3": "雕纹红砖块",
+	"block.chipped.bricks_3": "錾制红砖块",
 	"block.chipped.bricks_4": "环纹红砖块",
 	"block.chipped.bricks_5": "不悦徽红砖浮雕",
 	"block.chipped.bricks_6": "嵌花红砖块",
@@ -1191,7 +1191,7 @@
     "block.chipped.bricks_105": "平整无砂浆红砖瓦",
     "block.chipped.bricks_106": "裂纹无砂浆红砖瓦",
     "block.chipped.bricks_107": "纂刻无砂浆红砖块",
-    "block.chipped.bricks_108": "雕纹无砂浆红砖块",
+    "block.chipped.bricks_108": "錾制无砂浆红砖块",
     "block.chipped.bricks_109": "无砂浆红砖块",
     "block.chipped.bricks_110": "裂纹无砂浆红砖块",
     "block.chipped.bricks_111": "错排无砂浆红砖块",
@@ -1415,7 +1415,7 @@
 
 	"block.chipped.calcite_1": "磨制方解石",
 	"block.chipped.calcite_2": "微型砖沿方解石",
-	"block.chipped.calcite_3": "雕纹方解石",
+	"block.chipped.calcite_3": "錾制方解石",
 	"block.chipped.calcite_4": "环纹方解石",
 	"block.chipped.calcite_5": "不悦徽方解石浮雕",
 	"block.chipped.calcite_6": "嵌花方解石",
@@ -1553,7 +1553,7 @@
 
   	"block.chipped.coal_block_1": "磨制煤炭块",
 	"block.chipped.coal_block_2": "微型砖沿煤炭块",
-	"block.chipped.coal_block_3": "雕纹煤炭块",
+	"block.chipped.coal_block_3": "錾制煤炭块",
 	"block.chipped.coal_block_4": "环纹煤炭块",
 	"block.chipped.coal_block_5": "不悦徽煤炭块浮雕",
 	"block.chipped.coal_block_6": "嵌花煤炭块",
@@ -1623,7 +1623,7 @@
 
   	"block.chipped.cobblestone_1": "磨制圆石",
 	"block.chipped.cobblestone_2": "微型砖沿圆石",
-	"block.chipped.cobblestone_3": "雕纹圆石",
+	"block.chipped.cobblestone_3": "錾制圆石",
 	"block.chipped.cobblestone_4": "环纹圆石",
 	"block.chipped.cobblestone_5": "不悦徽圆石浮雕",
 	"block.chipped.cobblestone_6": "嵌花圆石",
@@ -1725,7 +1725,7 @@
     "block.chipped.waxed_copper_block_1": "涂蜡古式铜块",
     "block.chipped.waxed_copper_block_2": "涂蜡凿制铜块",
     "block.chipped.waxed_copper_block_3": "涂蜡压纹铜块",
-    "block.chipped.waxed_copper_block_4": "涂蜡雕纹铜块",
+    "block.chipped.waxed_copper_block_4": "涂蜡錾制铜块",
     "block.chipped.waxed_copper_block_5": "涂蜡层纹铜块",
     "block.chipped.waxed_copper_block_6": "涂蜡磨制铜块",
     "block.chipped.waxed_copper_block_7": "涂蜡压制铜块",
@@ -1737,7 +1737,7 @@
     "block.chipped.waxed_exposed_copper_1": "斑驳的涂蜡古式铜块",
     "block.chipped.waxed_exposed_copper_2": "斑驳的涂蜡凿制铜块",
     "block.chipped.waxed_exposed_copper_3": "斑驳的涂蜡压纹铜块",
-    "block.chipped.waxed_exposed_copper_4": "斑驳的涂蜡雕纹铜块",
+    "block.chipped.waxed_exposed_copper_4": "斑驳的涂蜡錾制铜块",
     "block.chipped.waxed_exposed_copper_5": "斑驳的涂蜡层纹铜块",
     "block.chipped.waxed_exposed_copper_6": "斑驳的涂蜡磨制铜块",
     "block.chipped.waxed_exposed_copper_7": "斑驳的涂蜡压制铜块",
@@ -1749,7 +1749,7 @@
     "block.chipped.waxed_weathered_copper_1": "锈蚀的涂蜡古式铜块",
     "block.chipped.waxed_weathered_copper_2": "锈蚀的涂蜡凿制铜块",
     "block.chipped.waxed_weathered_copper_3": "锈蚀的涂蜡压纹铜块",
-    "block.chipped.waxed_weathered_copper_4": "锈蚀的涂蜡雕纹铜块",
+    "block.chipped.waxed_weathered_copper_4": "锈蚀的涂蜡錾制铜块",
     "block.chipped.waxed_weathered_copper_5": "锈蚀的涂蜡层纹铜块",
     "block.chipped.waxed_weathered_copper_6": "锈蚀的涂蜡磨制铜块",
     "block.chipped.waxed_weathered_copper_7": "锈蚀的涂蜡压制铜块",
@@ -1761,7 +1761,7 @@
     "block.chipped.waxed_oxidized_copper_1": "氧化的涂蜡古式铜块",
     "block.chipped.waxed_oxidized_copper_2": "氧化的涂蜡凿制铜块",
     "block.chipped.waxed_oxidized_copper_3": "氧化的涂蜡压纹铜块",
-    "block.chipped.waxed_oxidized_copper_4": "氧化的涂蜡雕纹铜块",
+    "block.chipped.waxed_oxidized_copper_4": "氧化的涂蜡錾制铜块",
     "block.chipped.waxed_oxidized_copper_5": "氧化的涂蜡层纹铜块",
     "block.chipped.waxed_oxidized_copper_6": "氧化的涂蜡磨制铜块",
     "block.chipped.waxed_oxidized_copper_7": "氧化的涂蜡压制铜块",
@@ -1867,7 +1867,7 @@
 
     "block.chipped.crying_obsidian_1": "磨制哭泣的黑曜石",
 	"block.chipped.crying_obsidian_2": "微型砖沿哭泣的黑曜石",
-	"block.chipped.crying_obsidian_3": "雕纹哭泣的黑曜石",
+	"block.chipped.crying_obsidian_3": "錾制哭泣的黑曜石",
 	"block.chipped.crying_obsidian_4": "环纹哭泣的黑曜石",
 	"block.chipped.crying_obsidian_5": "不悦徽哭泣的黑曜石浮雕",
 	"block.chipped.crying_obsidian_6": "嵌花哭泣的黑曜石",
@@ -2146,7 +2146,7 @@
 
   	"block.chipped.dark_prismarine_1": "磨制暗海晶石",
 	"block.chipped.dark_prismarine_2": "微型砖沿暗海晶石",
-	"block.chipped.dark_prismarine_3": "雕纹暗海晶石",
+	"block.chipped.dark_prismarine_3": "錾制暗海晶石",
 	"block.chipped.dark_prismarine_4": "环纹暗海晶石",
 	"block.chipped.dark_prismarine_5": "不悦徽暗海晶石浮雕",
 	"block.chipped.dark_prismarine_6": "嵌花暗海晶石",
@@ -2216,7 +2216,7 @@
 
   	"block.chipped.deepslate_1": "磨制深板岩",
 	"block.chipped.deepslate_2": "微型砖沿深板岩",
-	"block.chipped.deepslate_3": "雕纹深板岩",
+	"block.chipped.deepslate_3": "錾制深板岩",
 	"block.chipped.deepslate_4": "环纹深板岩",
 	"block.chipped.deepslate_5": "不悦徽深板岩浮雕",
 	"block.chipped.deepslate_6": "嵌花深板岩",
@@ -2293,13 +2293,13 @@
     "block.chipped.diamond_block_7": "层纹钻石块",
     "block.chipped.diamond_block_8": "窗格钻石块",
     "block.chipped.diamond_block_9": "凿制钻石块",
-    "block.chipped.diamond_block_10": "雕纹钻石块",
+    "block.chipped.diamond_block_10": "錾制钻石块",
     "block.chipped.diamond_block_11": "宽板钻石块",
     "block.chipped.diamond_block_12": "古式钻石块",
 
     "block.chipped.diorite_1": "磨制闪长岩",
 	"block.chipped.diorite_2": "微型砖沿闪长岩",
-	"block.chipped.diorite_3": "雕纹闪长岩",
+	"block.chipped.diorite_3": "錾制闪长岩",
 	"block.chipped.diorite_4": "环纹闪长岩",
 	"block.chipped.diorite_5": "不悦徽闪长岩浮雕",
 	"block.chipped.diorite_6": "嵌花闪长岩",
@@ -2369,7 +2369,7 @@
 
   	"block.chipped.dirt_1": "磨制泥土",
 	"block.chipped.dirt_2": "微型砖沿泥土",
-	"block.chipped.dirt_3": "雕纹泥土",
+	"block.chipped.dirt_3": "錾制泥土",
 	"block.chipped.dirt_4": "环纹泥土",
 	"block.chipped.dirt_5": "不悦徽泥土浮雕",
 	"block.chipped.dirt_6": "嵌花泥土",
@@ -2620,7 +2620,7 @@
 
 	"block.chipped.dripstone_block_1": "磨制滴水石块",
 	"block.chipped.dripstone_block_2": "微型砖沿滴水石块",
-	"block.chipped.dripstone_block_3": "雕纹滴水石块",
+	"block.chipped.dripstone_block_3": "錾制滴水石块",
 	"block.chipped.dripstone_block_4": "环纹滴水石块",
 	"block.chipped.dripstone_block_5": "不悦徽滴水石浮雕",
 	"block.chipped.dripstone_block_6": "嵌花滴水石块",
@@ -2697,13 +2697,13 @@
     "block.chipped.emerald_block_7": "层纹绿宝石块",
     "block.chipped.emerald_block_8": "窗格绿宝石块",
     "block.chipped.emerald_block_9": "凿制绿宝石块",
-    "block.chipped.emerald_block_10": "雕纹绿宝石块",
+    "block.chipped.emerald_block_10": "錾制绿宝石块",
     "block.chipped.emerald_block_11": "宽板绿宝石块",
     "block.chipped.emerald_block_12": "古式绿宝石块",
 
     "block.chipped.end_stone_1": "磨制末地石",
 	"block.chipped.end_stone_2": "微型砖沿末地石",
-	"block.chipped.end_stone_3": "雕纹末地石",
+	"block.chipped.end_stone_3": "錾制末地石",
 	"block.chipped.end_stone_4": "环纹末地石",
 	"block.chipped.end_stone_5": "不悦徽末地石浮雕",
 	"block.chipped.end_stone_6": "嵌花末地石",
@@ -2773,7 +2773,7 @@
 
   	"block.chipped.gilded_blackstone_1": "磨制镶金黑石",
 	"block.chipped.gilded_blackstone_2": "微型砖沿镶金黑石",
-	"block.chipped.gilded_blackstone_3": "雕纹镶金黑石",
+	"block.chipped.gilded_blackstone_3": "錾制镶金黑石",
 	"block.chipped.gilded_blackstone_4": "环纹镶金黑石",
 	"block.chipped.gilded_blackstone_5": "不悦徽镶金黑石浮雕",
 	"block.chipped.gilded_blackstone_6": "嵌花镶金黑石",
@@ -3075,13 +3075,13 @@
     "block.chipped.gold_block_7": "层纹金块",
     "block.chipped.gold_block_8": "窗格金块",
     "block.chipped.gold_block_9": "凿制金块",
-    "block.chipped.gold_block_10": "雕纹金块",
+    "block.chipped.gold_block_10": "錾制金块",
     "block.chipped.gold_block_11": "宽板金块",
     "block.chipped.gold_block_12": "古式金块",
 
     "block.chipped.granite_1": "磨制花岗岩",
 	"block.chipped.granite_2": "微型砖沿花岗岩",
-	"block.chipped.granite_3": "雕纹花岗岩",
+	"block.chipped.granite_3": "錾制花岗岩",
 	"block.chipped.granite_4": "环纹花岗岩",
 	"block.chipped.granite_5": "不悦徽花岗岩浮雕",
 	"block.chipped.granite_6": "嵌花花岗岩",
@@ -3476,7 +3476,7 @@
 
     "block.chipped.ice_1": "磨制冰",
 	"block.chipped.ice_2": "微型砖沿冰",
-	"block.chipped.ice_3": "雕纹冰",
+	"block.chipped.ice_3": "錾制冰",
 	"block.chipped.ice_4": "环纹冰",
 	"block.chipped.ice_5": "不悦徽冰浮雕",
 	"block.chipped.ice_6": "嵌花冰",
@@ -3575,7 +3575,7 @@
     "block.chipped.iron_block_7": "层纹铁块",
     "block.chipped.iron_block_8": "窗格铁块",
     "block.chipped.iron_block_9": "凿制铁块",
-    "block.chipped.iron_block_10": "雕纹铁块",
+    "block.chipped.iron_block_10": "錾制铁块",
     "block.chipped.iron_block_11": "宽板铁块",
     "block.chipped.iron_block_12": "古式铁块",
 
@@ -3696,7 +3696,7 @@
 
     "block.chipped.lapis_block_1": "磨制青金石块",
 	"block.chipped.lapis_block_2": "微型砖沿青金石块",
-	"block.chipped.lapis_block_3": "雕纹青金石块",
+	"block.chipped.lapis_block_3": "錾制青金石块",
 	"block.chipped.lapis_block_4": "环纹青金石块",
 	"block.chipped.lapis_block_5": "不悦徽青金石浮雕",
 	"block.chipped.lapis_block_6": "嵌花青金石块",
@@ -4251,7 +4251,7 @@
 
 	"block.chipped.lodestone_1": "磨制磁石",
 	"block.chipped.lodestone_2": "微型砖沿磁石",
-	"block.chipped.lodestone_3": "雕纹磁石",
+	"block.chipped.lodestone_3": "錾制磁石",
 	"block.chipped.lodestone_4": "环纹磁石",
 	"block.chipped.lodestone_5": "不悦徽磁石浮雕",
 	"block.chipped.lodestone_6": "嵌花磁石",
@@ -4571,7 +4571,7 @@
 
 	"block.chipped.magma_block_1": "磨制岩浆块",
 	"block.chipped.magma_block_2": "微型砖沿岩浆块",
-	"block.chipped.magma_block_3": "雕纹岩浆块",
+	"block.chipped.magma_block_3": "錾制岩浆块",
 	"block.chipped.magma_block_4": "环纹岩浆块",
 	"block.chipped.magma_block_5": "不悦徽岩浆块浮雕",
 	"block.chipped.magma_block_6": "嵌花岩浆块",
@@ -4652,7 +4652,7 @@
 
 	"block.chipped.mossy_cobblestone_1": "磨制苔石",
 	"block.chipped.mossy_cobblestone_2": "微型砖沿苔石",
-	"block.chipped.mossy_cobblestone_3": "雕纹苔石",
+	"block.chipped.mossy_cobblestone_3": "錾制苔石",
 	"block.chipped.mossy_cobblestone_4": "环纹苔石",
 	"block.chipped.mossy_cobblestone_5": "不悦徽苔石浮雕",
 	"block.chipped.mossy_cobblestone_6": "嵌花苔石",
@@ -4722,7 +4722,7 @@
 
   	"block.chipped.mossy_stone_bricks_1": "磨制苔石砖",
 	"block.chipped.mossy_stone_bricks_2": "微型砖沿苔石砖",
-	"block.chipped.mossy_stone_bricks_3": "雕纹苔石砖",
+	"block.chipped.mossy_stone_bricks_3": "錾制苔石砖",
 	"block.chipped.mossy_stone_bricks_4": "环纹苔石砖",
 	"block.chipped.mossy_stone_bricks_5": "不悦徽苔石砖浮雕",
 	"block.chipped.mossy_stone_bricks_6": "嵌花苔石砖",
@@ -4792,7 +4792,7 @@
 
   	"block.chipped.nether_bricks_1": "磨制下界砖块",
 	"block.chipped.nether_bricks_2": "微型砖沿下界砖块",
-	"block.chipped.nether_bricks_3": "雕纹下界砖块",
+	"block.chipped.nether_bricks_3": "錾制下界砖块",
 	"block.chipped.nether_bricks_4": "环纹下界砖块",
 	"block.chipped.nether_bricks_5": "不悦徽下界砖浮雕",
 	"block.chipped.nether_bricks_6": "嵌花下界砖块",
@@ -4905,13 +4905,13 @@
     "block.chipped.netherite_block_7": "层纹下界合金块",
     "block.chipped.netherite_block_8": "窗格下界合金块",
     "block.chipped.netherite_block_9": "凿制下界合金块",
-    "block.chipped.netherite_block_10": "雕纹下界合金块",
+    "block.chipped.netherite_block_10": "錾制下界合金块",
     "block.chipped.netherite_block_11": "宽板下界合金块",
     "block.chipped.netherite_block_12": "古式下界合金块",
 
     "block.chipped.netherrack_1": "磨制下界岩",
 	"block.chipped.netherrack_2": "微型砖沿下界岩",
-	"block.chipped.netherrack_3": "雕纹下界岩",
+	"block.chipped.netherrack_3": "錾制下界岩",
 	"block.chipped.netherrack_4": "环纹下界岩",
 	"block.chipped.netherrack_5": "不悦徽下界岩浮雕",
 	"block.chipped.netherrack_6": "嵌花下界岩",
@@ -5036,7 +5036,7 @@
 
   	"block.chipped.obsidian_1": "磨制黑曜石",
 	"block.chipped.obsidian_2": "微型砖沿黑曜石",
-	"block.chipped.obsidian_3": "雕纹黑曜石",
+	"block.chipped.obsidian_3": "錾制黑曜石",
 	"block.chipped.obsidian_4": "环纹黑曜石",
 	"block.chipped.obsidian_5": "不悦徽黑曜石浮雕",
 	"block.chipped.obsidian_6": "嵌花黑曜石",
@@ -5260,7 +5260,7 @@
 
 	"block.chipped.packed_ice_1": "磨制浮冰",
 	"block.chipped.packed_ice_2": "微型砖沿浮冰",
-	"block.chipped.packed_ice_3": "雕纹浮冰",
+	"block.chipped.packed_ice_3": "錾制浮冰",
 	"block.chipped.packed_ice_4": "环纹浮冰",
 	"block.chipped.packed_ice_5": "不悦徽浮冰浮雕",
 	"block.chipped.packed_ice_6": "嵌花浮冰",
@@ -5484,7 +5484,7 @@
 
 	"block.chipped.prismarine_1": "磨制海晶石",
 	"block.chipped.prismarine_2": "微型砖沿海晶石",
-	"block.chipped.prismarine_3": "雕纹海晶石",
+	"block.chipped.prismarine_3": "錾制海晶石",
 	"block.chipped.prismarine_4": "环纹海晶石",
 	"block.chipped.prismarine_5": "不悦徽海晶石浮雕",
 	"block.chipped.prismarine_6": "嵌花海晶石",
@@ -5771,7 +5771,7 @@
 
 	"block.chipped.purpur_block_1": "磨制紫珀块",
 	"block.chipped.purpur_block_2": "微型砖沿紫珀块",
-	"block.chipped.purpur_block_3": "雕纹紫珀块",
+	"block.chipped.purpur_block_3": "錾制紫珀块",
 	"block.chipped.purpur_block_4": "环纹紫珀块",
 	"block.chipped.purpur_block_5": "不悦徽紫珀浮雕",
 	"block.chipped.purpur_block_6": "嵌花紫珀块",
@@ -5841,7 +5841,7 @@
 
   	"block.chipped.quartz_block_1": "磨制石英块",
 	"block.chipped.quartz_block_2": "微型砖沿石英块",
-	"block.chipped.quartz_block_3": "雕纹石英块",
+	"block.chipped.quartz_block_3": "錾制石英块",
 	"block.chipped.quartz_block_4": "环纹石英块",
 	"block.chipped.quartz_block_5": "不悦徽石英浮雕",
 	"block.chipped.quartz_block_6": "嵌花石英块",
@@ -5911,7 +5911,7 @@
 
   	"block.chipped.raw_copper_block_1": "磨制粗铜块",
 	"block.chipped.raw_copper_block_2": "微型砖沿粗铜块",
-	"block.chipped.raw_copper_block_3": "雕纹粗铜块",
+	"block.chipped.raw_copper_block_3": "錾制粗铜块",
 	"block.chipped.raw_copper_block_4": "环纹粗铜块",
 	"block.chipped.raw_copper_block_5": "不悦徽粗铜浮雕",
 	"block.chipped.raw_copper_block_6": "嵌花粗铜块",
@@ -5981,7 +5981,7 @@
 
   	"block.chipped.raw_gold_block_1": "磨制粗金块",
 	"block.chipped.raw_gold_block_2": "微型砖沿粗金块",
-	"block.chipped.raw_gold_block_3": "雕纹粗金块",
+	"block.chipped.raw_gold_block_3": "錾制粗金块",
 	"block.chipped.raw_gold_block_4": "环纹粗金块",
 	"block.chipped.raw_gold_block_5": "不悦徽粗金浮雕",
 	"block.chipped.raw_gold_block_6": "嵌花粗金块",
@@ -6051,7 +6051,7 @@
 
   	"block.chipped.raw_iron_block_1": "磨制粗铁块",
 	"block.chipped.raw_iron_block_2": "微型砖沿粗铁块",
-	"block.chipped.raw_iron_block_3": "雕纹粗铁块",
+	"block.chipped.raw_iron_block_3": "錾制粗铁块",
 	"block.chipped.raw_iron_block_4": "环纹粗铁块",
 	"block.chipped.raw_iron_block_5": "不悦徽粗铁浮雕",
 	"block.chipped.raw_iron_block_6": "嵌花粗铁块",
@@ -6316,7 +6316,7 @@
 
     "block.chipped.red_nether_bricks_1": "磨制红色下界砖块",
 	"block.chipped.red_nether_bricks_2": "微型砖沿红色下界砖块",
-	"block.chipped.red_nether_bricks_3": "雕纹红色下界砖块",
+	"block.chipped.red_nether_bricks_3": "錾制红色下界砖块",
 	"block.chipped.red_nether_bricks_4": "环纹红色下界砖块",
 	"block.chipped.red_nether_bricks_5": "不悦徽红色下界砖浮雕",
 	"block.chipped.red_nether_bricks_6": "嵌花红色下界砖块",
@@ -6386,7 +6386,7 @@
 
   	"block.chipped.red_sandstone_1": "磨制红砂岩",
 	"block.chipped.red_sandstone_2": "微型砖沿红砂岩",
-	"block.chipped.red_sandstone_3": "雕纹红砂岩",
+	"block.chipped.red_sandstone_3": "錾制红砂岩",
 	"block.chipped.red_sandstone_4": "环纹红砂岩",
 	"block.chipped.red_sandstone_5": "不悦徽红砂岩浮雕",
 	"block.chipped.red_sandstone_6": "嵌花红砂岩",
@@ -6456,7 +6456,7 @@
 
   	"block.chipped.redstone_block_1": "磨制红石块",
 	"block.chipped.redstone_block_2": "微型砖沿红石块",
-	"block.chipped.redstone_block_3": "雕纹红石块",
+	"block.chipped.redstone_block_3": "錾制红石块",
 	"block.chipped.redstone_block_4": "环纹红石块",
 	"block.chipped.redstone_block_5": "不悦徽红石浮雕",
 	"block.chipped.redstone_block_6": "嵌花红石块",
@@ -6559,7 +6559,7 @@
 
 	"block.chipped.sandstone_1": "磨制砂岩",
 	"block.chipped.sandstone_2": "微型砖沿砂岩",
-	"block.chipped.sandstone_3": "雕纹砂岩",
+	"block.chipped.sandstone_3": "錾制砂岩",
 	"block.chipped.sandstone_4": "环纹砂岩",
 	"block.chipped.sandstone_5": "不悦徽砂岩浮雕",
 	"block.chipped.sandstone_6": "嵌花砂岩",
@@ -6663,7 +6663,7 @@
 
   	 "block.chipped.smooth_stone_1": "磨制平滑石头",
 	 "block.chipped.smooth_stone_2": "微型砖沿平滑石头",
-	 "block.chipped.smooth_stone_3": "雕纹平滑石头",
+	 "block.chipped.smooth_stone_3": "錾制平滑石头",
 	 "block.chipped.smooth_stone_4": "环纹平滑石头",
 	 "block.chipped.smooth_stone_5": "不悦徽平滑石浮雕",
 	 "block.chipped.smooth_stone_6": "嵌花平滑石头",
@@ -6733,7 +6733,7 @@
 
   	 "block.chipped.snow_block_1": "磨制雪块",
 	 "block.chipped.snow_block_2": "微型砖沿雪块",
-	 "block.chipped.snow_block_3": "雕纹雪块",
+	 "block.chipped.snow_block_3": "錾制雪块",
 	 "block.chipped.snow_block_4": "环纹雪块",
 	 "block.chipped.snow_block_5": "不悦徽雪浮雕",
 	 "block.chipped.snow_block_6": "嵌花雪块",
@@ -6870,7 +6870,7 @@
 
   	 "block.chipped.stone_1": "磨制石头",
 	 "block.chipped.stone_2": "微型砖沿石头",
-	 "block.chipped.stone_3": "雕纹石头",
+	 "block.chipped.stone_3": "錾制石头",
 	 "block.chipped.stone_4": "环纹石头",
 	 "block.chipped.stone_5": "不悦徽石浮雕",
 	 "block.chipped.stone_6": "嵌花石头",
@@ -7232,7 +7232,7 @@
 
 	 "block.chipped.tuff_1": "磨制凝灰岩",
 	 "block.chipped.tuff_2": "微型砖沿凝灰岩",
-	 "block.chipped.tuff_3": "雕纹凝灰岩",
+	 "block.chipped.tuff_3": "錾制凝灰岩",
 	 "block.chipped.tuff_4": "环纹凝灰岩",
 	 "block.chipped.tuff_5": "不悦徽凝灰岩浮雕",
 	 "block.chipped.tuff_6": "嵌花凝灰岩",

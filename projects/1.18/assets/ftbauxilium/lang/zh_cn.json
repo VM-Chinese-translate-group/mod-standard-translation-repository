@@ -1,6 +1,6 @@
 {
-  "ftbauxilium.what-is": "FTB Auxilium是一个轻量级的mod，它将少量的统计信息发送回FTB统计服务器。我们使用这些信息来帮助推动我们的整合包朝着最适合我们玩家的方向发展。",
-  "ftbauxilium.what-info": "Auxilum只报告基本的、完全匿名的数据；目前，它会报告：加载时间、你正在玩的包、崩溃日志、游戏时间，以及你用来启动整活包的启动器。",
+  "ftbauxilium.what-is": "FTB\u00A0Auxilium是一个轻量级的mod，它将少量的统计信息发送回FTB统计服务器。我们使用这些信息来帮助推动我们的整合包朝着最适合我们玩家的方向发展。",
+  "ftbauxilium.what-info": "Auxilum只报告基本的、完全匿名的数据；目前，它会报告：加载时间、你正在玩的包、崩溃日志、游戏时间，以及你用来启动整合包的启动器。",
   "ftbauxilium.opt-out": "如果你不想把这些匿名信息送回FTB，你可以点击下面的按钮退出。这将使你退出所有使用Auxilium的FTB整合包。",
   "ftbauxilium.heading-what-is": "什么是FTB Auxilium？",
   "ftbauxilium.heading-what-info": "它在发送什么？",

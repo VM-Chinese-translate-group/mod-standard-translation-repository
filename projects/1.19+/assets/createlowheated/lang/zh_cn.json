@@ -1,0 +1,13 @@
+{
+  "block.createlowheated.basic_burner": "基础燃烧室",
+  "block.createlowheated.basic_burner.tooltip": "基础燃烧室",
+  "block.createlowheated.basic_burner.tooltip.behaviour1": "手持_燃料_右击，或使用_漏斗/机械手/动力臂_。",
+  "block.createlowheated.basic_burner.tooltip.behaviour2": "你需要用_打火石_右击点_火_，只要燃料持续供应，火就不会熄灭。",
+  "block.createlowheated.basic_burner.tooltip.behaviour3": "将最大转速的鼓风机对准基础燃烧室可以强化它。",
+  "block.createlowheated.basic_burner.tooltip.condition1": "需要燃料",
+  "block.createlowheated.basic_burner.tooltip.condition2": "需要打火石",
+  "block.createlowheated.basic_burner.tooltip.condition3": "强化燃烧室",
+  "block.createlowheated.basic_burner.tooltip.summary": "为_使用工作盆的配方_和_蒸汽引擎_提供_热量_。",
+  "create.recipe.heat_requirement.lowheated": "低温加热",
+  "itemGroup.createlowheated.base": "机械动力：低温加热"
+}
