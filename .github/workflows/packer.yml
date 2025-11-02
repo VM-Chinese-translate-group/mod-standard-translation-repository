@@ -7,33 +7,22 @@ on:
 jobs:
   pack:
     runs-on: ubuntu-latest
-
+    strategy:
+      matrix:
+        version-folder: [1.12.2, 1.16, 1.18, "1.19+"]
     steps:
       - name: Checkout
         uses: actions/checkout@v5
 
-      - name: Create temp directory
-        run: mkdir -p temp
-
-      - name: Zip each project folder separately
+      - name: Zip version ${{ matrix.version-folder }}
         run: |
-          for dir in projects/*; do
-            [ -d "$dir" ] || continue
-            version=$(basename "$dir")
-            safe_name=$(echo "$version" | sed 's/+/plus/g')
-            zip -r "temp/${safe_name}.zip" "$dir"
-          done
+          version="${{ matrix.version-folder }}"
+          safe_name=$(echo "$version" | sed 's/+/plus/g')
+          zip -r "${safe_name}.zip" "projects/$version"
 
-      - name: Upload each artifact separately
-        run: |
-          for zipfile in temp/*.zip; do
-            base=$(basename "$zipfile" .zip)
-            artifact_name="VM汉化组模组汉化包${base}"
-            echo "Uploading $zipfile as $artifact_name"
-            gh run upload-artifact "$artifact_name" "$zipfile"
-          done
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Clean up
-        run: rm -rf temp
+      - name: Upload artifact for version ${{ matrix.version-folder }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: VM汉化组模组汉化包${{ matrix.version-folder }}
+          path: |
+            ${{ matrix.version-folder }}.zip
