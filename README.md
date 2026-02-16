@@ -24,7 +24,7 @@
   - 1.12.2（53个模组）
   - 1.16（52个模组）
   - 1.18（155个模组）
-  - 1.19 及以上（194个模组）
+  - 1.19 及以上（214个模组）
 
 模组同步截至2026年2月，不包含截至时未发布汉化的整合包，如Prodigium Reforged、永恒的MC2、Craftoria、Submerged 2等。
 
@@ -32,7 +32,9 @@
 其均位于`1.19+/assets`下：
 
 ```
+eternal_attributes
 undead_unleashed
 oritechthings
 hpm
+stellaris
 ```

@@ -1,0 +1,25 @@
+{
+  "item.onlyhammersandexcavators.wooden_excavator": "木开掘铲",
+  "item.onlyhammersandexcavators.stone_excavator": "石开掘铲",
+  "item.onlyhammersandexcavators.iron_excavator": "铁开掘铲",
+  "item.onlyhammersandexcavators.gold_excavator": "金开掘铲",
+  "item.onlyhammersandexcavators.lapis_excavator": "青金石开掘铲",
+  "item.onlyhammersandexcavators.redstone_excavator": "红石开掘铲",
+  "item.onlyhammersandexcavators.diamond_excavator": "钻石开掘铲",
+  "item.onlyhammersandexcavators.emerald_excavator": "绿宝石开掘铲",
+  "item.onlyhammersandexcavators.obsidian_excavator": "黑曜石开掘铲",
+  "item.onlyhammersandexcavators.netherite_excavator": "下界合金开掘铲",
+
+  "item.onlyhammersandexcavators.wooden_hammer": "木锤",
+  "item.onlyhammersandexcavators.stone_hammer": "石锤",
+  "item.onlyhammersandexcavators.iron_hammer": "铁锤",
+  "item.onlyhammersandexcavators.gold_hammer": "金锤",
+  "item.onlyhammersandexcavators.lapis_hammer": "青金石锤",
+  "item.onlyhammersandexcavators.redstone_hammer": "红石锤",
+  "item.onlyhammersandexcavators.diamond_hammer": "钻石锤",
+  "item.onlyhammersandexcavators.emerald_hammer": "绿宝石锤",
+  "item.onlyhammersandexcavators.obsidian_hammer": "黑曜石锤",
+  "item.onlyhammersandexcavators.netherite_hammer": "下界合金锤",
+
+  "itemGroup.onlyhammersandexcavators": "锤与开掘铲"
+}

@@ -1,0 +1,41 @@
+{
+  "block.modular_machinery_reborn.casing_plain": "木脚手架",
+
+  "block.modular_machinery_reborn.inputbus_tiny": "简易物品输入仓",
+  "block.modular_machinery_reborn.inputbus_small": "基础物品输入仓",
+  "block.modular_machinery_reborn.inputbus_reinforced": "高级物品输入仓",
+  "block.modular_machinery_reborn.inputbus_big": "精英物品输入仓",
+  "block.modular_machinery_reborn.inputbus_huge": "终极物品输入仓",
+
+  "block.modular_machinery_reborn.outputbus_tiny": "简易物品输出仓",
+  "block.modular_machinery_reborn.outputbus_small": "基础物品输出仓",
+  "block.modular_machinery_reborn.outputbus_reinforced": "高级物品输出仓",
+  "block.modular_machinery_reborn.outputbus_big": "精英物品输出仓",
+  "block.modular_machinery_reborn.outputbus_huge": "终极物品输出仓",
+
+  "block.modular_machinery_reborn.fluidoutputhatch_tiny": "简易流体输出仓",
+  "block.modular_machinery_reborn.fluidoutputhatch_small": "基础流体输出仓",
+  "block.modular_machinery_reborn.fluidoutputhatch_reinforced": "高级流体输出仓",
+  "block.modular_machinery_reborn.fluidoutputhatch_big": "精英流体输出仓",
+  "block.modular_machinery_reborn.fluidoutputhatch_huge": "终极流体输出仓",
+  
+  "block.modular_machinery_reborn.fluidinputhatch_tiny": "简易流体输入仓",
+  "block.modular_machinery_reborn.fluidinputhatch_small": "基础流体输入仓",
+  "block.modular_machinery_reborn.fluidinputhatch_reinforced": "高级流体输入仓",
+  "block.modular_machinery_reborn.fluidinputhatch_big": "精英流体输入仓",
+  "block.modular_machinery_reborn.fluidinputhatch_huge": "终极流体输入仓",
+
+  "block.modular_machinery_reborn.energyinputhatch_tiny": "简易能源输入仓",
+  "block.modular_machinery_reborn.energyinputhatch_small": "基础能源输入仓",
+  "block.modular_machinery_reborn.energyinputhatch_reinforced": "高级能源输入仓",
+  "block.modular_machinery_reborn.energyinputhatch_big": "精英能源输入仓",
+  "block.modular_machinery_reborn.energyinputhatch_huge": "终极能源输入仓",
+
+  "block.modular_machinery_reborn.energyoutputhatch_tiny": "简易能源输出仓",
+  "block.modular_machinery_reborn.energyoutputhatch_small": "基础能源输出仓",
+  "block.modular_machinery_reborn.energyoutputhatch_reinforced": "高级能源输出仓",
+  "block.modular_machinery_reborn.energyoutputhatch_big": "精英能源输出仓",
+  "block.modular_machinery_reborn.energyoutputhatch_huge": "终极能源输出仓"
+
+
+}

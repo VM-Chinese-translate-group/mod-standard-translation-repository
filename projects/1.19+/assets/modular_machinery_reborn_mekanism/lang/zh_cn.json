@@ -1,0 +1,17 @@
+{
+
+  "block.modular_machinery_reborn_mekanism.chemicalinputhatch_tiny": "简易化学品输入仓",
+  "block.modular_machinery_reborn_mekanism.chemicalinputhatch_small": "基础化学品输入仓",
+  "block.modular_machinery_reborn_mekanism.chemicalinputhatch_reinforced": "高级化学品输入仓",
+  "block.modular_machinery_reborn_mekanism.chemicalinputhatch_big": "精英化学品输入仓",
+  "block.modular_machinery_reborn_mekanism.chemicalinputhatch_huge": "终极化学品输入仓",
+
+  "block.modular_machinery_reborn_mekanism.chemicaloutputhatch_tiny": "简易化学品输出仓",
+  "block.modular_machinery_reborn_mekanism.chemicaloutputhatch_small": "基础化学品输出仓",
+  "block.modular_machinery_reborn_mekanism.chemicaloutputhatch_reinforced": "高级化学品输出仓",
+  "block.modular_machinery_reborn_mekanism.chemicaloutputhatch_big": "精英化学品输出仓",
+  "block.modular_machinery_reborn_mekanism.chemicaloutputhatch_huge": "终极化学品输出仓"
+
+
+
+}
