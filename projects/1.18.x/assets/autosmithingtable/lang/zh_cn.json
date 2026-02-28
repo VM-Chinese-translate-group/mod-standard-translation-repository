@@ -1,0 +1,14 @@
+{
+  "block.autosmithingtable.auto_smithing_table": "锻造台(自动)",
+  "item.autosmithingtable.auto_smithing_table": "锻造台(自动)",
+
+  "container.autosmithingtable.title": "升级物品(自动)",
+  "itemGroup.autosmithingtable": "自动锻造台",
+
+  "message.autosmithingtable.change_side_to_0": "[§e自动锻造台§r] §b侧面改为：无",
+  "message.autosmithingtable.change_side_to_1": "[§e自动锻造台§r] §b侧面改为：基础输入",
+  "message.autosmithingtable.change_side_to_2": "[§e自动锻造台§r] §b侧面改为：额外输入",
+  "message.autosmithingtable.change_side_to_3": "[§e自动锻造台§r] §b侧面改为：输出",
+  "tooltip.autosmithingtable.sides": "[Shift + 右击]侧面以配置",
+  "tooltip.autosmithingtable.jade_progress": "进度：%d"
+}
